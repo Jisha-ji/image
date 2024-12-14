@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-# Date:14.12.2024
+# Date:16.11.2024
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
@@ -213,6 +213,7 @@ Publish the website in the given URL.
 # OUTPUT:
 ![Screenshot (125)](https://github.com/user-attachments/assets/e9b4e569-e389-46a6-9383-397c8a605422)
 ![Screenshot (127)](https://github.com/user-attachments/assets/f14902a7-12be-439e-9757-d4362715094c)
+![Screenshot (129)](https://github.com/user-attachments/assets/de529e65-6680-4056-aa8b-a2d232dbaa65)
 
 
 # RESULT:
